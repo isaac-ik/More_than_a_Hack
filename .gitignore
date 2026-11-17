@@ -1,0 +1,23 @@
+# Match data: gated, licensed for the competition only. I didnt commit it.
+data/*
+!data/README.md
+
+
+# Generated output. Isaac.csv labels the whole match, so it is uploaded through the form,
+# not published here.
+output/
+solution/cache/
+
+# Development work, experiments, reports and the challenge documents.
+trials/
+
+# Editors and build artifacts
+.claude/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.DS_Store

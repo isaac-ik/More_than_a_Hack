@@ -1,0 +1,3 @@
+# Exact version the submitted file was generated with, on Python 3.14.3.
+# The pipeline needs numpy and the Python standard library, nothing else.
+numpy==2.3.4
