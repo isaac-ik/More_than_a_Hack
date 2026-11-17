@@ -80,3 +80,7 @@ To prove the cache plays no part, delete `solution/cache/` and run again: the ha
 
 Not committed (see `.gitignore`): `data/` (the gated match data), `output/` and `solution/cache/`
 (derived from it), and `trials/` (experiments and development work, not needed to make the file).
+
+## Team members
+1. Isaac Ikhaiduwor
+2. Emmanuel Ikhaiduwor
